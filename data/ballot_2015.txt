@@ -1,0 +1,220 @@
+~
+
+name:
+
+~
+
+best picture:
+american sniper
+birdman
+boyhood
+the grand budapest hotel
+the imitation game
+selma
+the theory of everything
+whiplash
+
+~
+
+actor:
+steve carell
+bradley cooper
+benedict cumberbatch
+michael keaton
+eddie redmayne
+
+~
+
+actress:
+marion cotillard
+felicity jones
+julianne moore
+rosamund pike
+reese witherspoon
+
+~
+
+supporting actor:
+robert duvall
+ethan hawke
+edward norton
+mark ruffalo
+jk simmons
+
+~
+
+supporting actress:
+patricia arquette
+laura dern
+keira knightley
+emma stone
+meryl streep
+
+~
+
+director:
+alejandro inarritu
+richard linklater
+bennett miller
+wes anderson
+morten tyldum
+
+~
+
+original screenplay:
+birdman
+boyhood
+foxcatcher
+the grand budapest hotel
+nightcrawler
+
+~
+
+adapted screenplay:
+american sniper
+the imitation game
+inherent vice
+the theory of everything
+whiplash
+
+~
+
+foreign language film:
+ida
+leviathan
+tangerines
+timbuktu
+wild tales
+
+~
+
+documentary feature:
+citizenfour
+finding vivian maier
+last days in vietnam
+the salt of the earth
+virunga
+
+~
+
+animated feature:
+big hero 6
+the boxtrolls
+how to train your dragon 2
+song of the sea
+the tale of the princess kaguya
+
+~
+
+cinematography:
+birdman
+the grand budapest hotel
+ida
+mr turner
+unbroken
+
+~
+
+film editing:
+american sniper
+boyhood
+the grand budapest hotel
+the imitation game
+whiplash
+
+~
+
+production design:
+the grand budapest hotel
+the imitation game
+interstellar
+into the woods
+mr turner
+
+~
+
+costume design:
+the grand budapest hotel
+inherent vice
+into the woods
+maleficent
+mr turner
+
+~
+
+makeup and hairstyling:
+foxcatcher
+the grand budapest hotel
+guardians of the galaxy
+
+~
+
+visual effects:
+captain america
+dawn of the planet of the apes
+guardians of the galaxy
+interstellar
+xmen
+
+~
+
+original song:
+everything is awesome
+glory
+grateful
+im not gonna miss you
+lost stars
+
+~
+
+original score:
+the grand budapest hotel
+the imitation game
+interstellar
+mr turner
+the theory of everything
+
+~
+
+sound editing:
+american sniper
+birdman
+the hobbit
+interstellar
+unbroken
+
+~
+
+sound mixing:
+american sniper
+birdman
+interstellar
+unbroken
+whiplash
+
+~
+
+live action short film:
+aya
+boogaloo and graham
+butter lamp
+parvaneh
+the phone call
+
+~
+
+documentary short subject:
+crisis hotline
+joanna
+our curse
+the reaper
+white earth
+
+~
+
+animated short film:
+the bigger picture
+the dam keeper
+feast
+me and my moulton
+a single life

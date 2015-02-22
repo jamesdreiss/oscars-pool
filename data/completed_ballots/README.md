@@ -1,0 +1,1 @@
+# Place the completed ballots in this folder

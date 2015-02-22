@@ -1,0 +1,124 @@
+~
+
+name:
+indy
+
+~
+
+best picture:
+whiplash
+
+~
+
+actor:
+eddie redmayne
+
+~
+
+actress:
+reese witherspoon
+
+~
+
+supporting actor:
+jk simmons
+
+~
+
+supporting actress:
+patricia arquette
+
+~
+
+director:
+wes anderson
+
+~
+
+original screenplay:
+nightcrawler
+
+~
+
+adapted screenplay:
+american sniper
+
+~
+
+foreign language film:
+ida
+
+~
+
+documentary feature:
+citizenfour
+
+~
+
+animated feature:
+big hero 6
+
+~
+
+cinematography:
+unbroken
+
+~
+
+film editing:
+american sniper
+
+~
+
+production design:
+the grand budapest hotel
+
+~
+
+costume design:
+the grand budapest hotel
+
+~
+
+makeup and hairstyling:
+foxcatcher
+
+~
+
+visual effects:
+xmen
+
+~
+
+original song:
+everything is awesome
+
+~
+
+original score:
+the grand budapest hotel
+
+~
+
+sound editing:
+unbroken
+
+~
+
+sound mixing:
+whiplash
+
+~
+
+live action short film:
+aya
+
+~
+
+documentary short subject:
+crisis hotline
+
+~
+
+animated short film:
+the bigger picture

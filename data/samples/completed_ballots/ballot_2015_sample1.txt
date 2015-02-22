@@ -1,0 +1,124 @@
+~
+
+name:
+james
+
+~
+
+best picture:
+whiplash
+
+~
+
+actor:
+eddie redmayne
+
+~
+
+actress:
+marion cotillard
+
+~
+
+supporting actor:
+robert duvall
+
+~
+
+supporting actress:
+meryl streep
+
+~
+
+director:
+wes anderson
+
+~
+
+original screenplay:
+nightcrawler
+
+~
+
+adapted screenplay:
+whiplash
+
+~
+
+foreign language film:
+wild tales
+
+~
+
+documentary feature:
+citizenfour
+
+~
+
+animated feature:
+big hero 6
+
+~
+
+cinematography:
+unbroken
+
+~
+
+film editing:
+whiplash
+
+~
+
+production design:
+the grand budapest hotel
+
+~
+
+costume design:
+mr turner
+
+~
+
+makeup and hairstyling:
+guardians of the galaxy
+
+~
+
+visual effects:
+xmen
+
+~
+
+original song:
+lost stars
+
+~
+
+original score:
+the theory of everything
+
+~
+
+sound editing:
+unbroken
+
+~
+
+sound mixing:
+whiplash
+
+~
+
+live action short film:
+aya
+
+~
+
+documentary short subject:
+our curse
+
+~
+
+animated short film:
+the bigger picture

@@ -1,0 +1,219 @@
+~
+
+name:
+
+~
+
+best picture:
+the big short
+bridge of spies
+brooklyn
+mad max fury road
+the martian
+the revenant
+room
+spotlight
+
+~
+
+actor:
+bryan cranston
+matt damon
+leonardo dicaprio
+michael fassbender
+eddie redmayne
+
+~
+
+actress:
+cate blanchett
+brie larson
+jennifer lawrence
+charlotte rampling
+saoirse ronan
+
+~
+
+supporting actor:
+christian bale
+tom hardy
+mark ruffalo
+mark rylance
+sylvester stallone
+
+~
+
+supporting actress:
+jennifer jason leigh
+rooney mara
+rachel mcadams
+alicia vikander
+kate winslet
+
+~
+
+director:
+adam mckay
+george miller
+alejandro inarritu
+lenny abrahamson
+
+~
+
+original screenplay:
+bridge of spies
+ex machina
+inside out
+spotlight
+straight outta compton
+
+~
+
+adapted screenplay:
+the big short
+brooklyn
+carol
+the martian
+room
+
+~
+
+foreign language film:
+embrace of the serpent
+mustang
+son of saul
+theeb
+a war
+
+~
+
+documentary feature:
+amy
+cartel land
+the look of silence
+what happened miss simone
+winter on fire
+
+~
+
+animated feature:
+anomalisa
+boy and the world
+inside out
+shaun the sheep movie
+when marnie was there
+
+~
+
+cinematography:
+carol
+the hateful eight
+mad max fury road
+the revenant
+sicario
+
+~
+
+film editing:
+the big short
+mad max fury road
+the revenant
+spotlight
+star wars the force awakens
+
+~
+
+production design:
+bridge of spies
+the danish girl
+mad max fury road
+the martian
+the revenant
+
+~
+
+costume design:
+carol
+cinderella
+the danish girl
+mad max fury road
+the revenant
+
+~
+
+makeup and hairstyling:
+mad max fury road
+the 100 year old man 
+the revenant
+
+~
+
+visual effects:
+ex machina
+mad max fury road
+the martian
+the revenant
+star wars the force awakens
+
+~
+
+original song:
+fifty shades of grey
+racing extinction
+youth
+the hunting ground
+spectre
+
+~
+
+original score:
+bridge of spies
+carol
+the hateful eight
+sicario
+star wars the force awakens
+
+~
+
+sound editing:
+mad max fury road
+the martian
+the revenant
+sicario
+star wars the force awakens
+
+~
+
+sound mixing:
+bridge of spies
+mad max fury road
+the martian
+the revenant
+star wars the force awakens
+
+~
+
+live action short film:
+ave maria
+day one
+everything will be okay
+shok
+stutterer
+
+~
+
+documentary short subject:
+body team 12
+chau beyond the lines
+claude lanzmann
+a girl in the river
+last day of freedom
+
+~
+
+animated short film:
+bear story
+prologue
+sanjays super team
+we cant live without cosmos
+world of tomorrow

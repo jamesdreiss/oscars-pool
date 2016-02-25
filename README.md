@@ -15,7 +15,7 @@ Key features (and the reasons for the program's existence, since I wasn't able t
 
 How does it work?
 
-1. Send `ballot_2015.txt` to your friends
+1. Send `ballot_2016.txt` to your friends
 2. Have them write their name under "name:" duh
 3. Have them make their picks by deleting the nominees who they think will lose
 4. That's it (i.e. instruct your pool to not otherwise alter the ballot; the `~` and `:` characters, for instance, are needed for parsing)

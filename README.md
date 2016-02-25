@@ -20,6 +20,6 @@ How does it work?
 3. Have them make their picks by deleting the nominees who they think will lose
 4. That's it (i.e. instruct your pool to not otherwise alter the ballot; the `~` and `:` characters, for instance, are needed for parsing)
 
-Once you've received everyone's ballots, place them in `data/completed_ballots` and source `oscars.R`. If desired, alter the number of points per category in `winners.csv`. During the ceremony, update `winners.csv` with the winners in each category (exactly as they're named on the ballot) and the order that they're announced, and then call `Plot(df)` to create the standings plot. Feel free to test with the data included in `samples`
+Once you've received everyone's ballots, place them in `data/completed_ballots` and source `oscars.R`. If desired, alter the number of points per category in `winners.csv`. During the ceremony, update `winners.csv` with the winners in each category (exactly as they're named on the ballot) and the order that they're announced, and then call `Plot(df)` to create the standings plot.
 
 Enjoy!

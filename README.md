@@ -9,7 +9,7 @@ Key features (and the reasons for the program's existence, since I wasn't able t
 * Blind ballots- it's no fun when the picks in your pool are totally homogeneous; blind ballots encourage everyone to do a bit of research rather than follow the pack, and this gives you that option
 * Create HTML tables of everyone's picks
 
-[Here are the full results and picks](http://www.jamesdreiss.com/oscars_2016.html) from my pool for the 2015 awards, with just the standings plot below.
+[Here are the full results and picks](http://www.jamesdreiss.com/oscars_2016.html) from my pool for the 2016 awards, with just the standings plot below.
 
 ![Alt text](data/samples/standings_2016.png?raw=true)
 

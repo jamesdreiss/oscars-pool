@@ -30,13 +30,13 @@ Plot <- function(df) {
   df$POS <- ave(df$POINTS, df$NAME, FUN = function(x) cumsum(x) - .5 * x)  # label position on plot
   
   plot <- ggplot(df, aes(x = NAME, y = POINTS, fill = CATEGORY)) +
-    geom_bar() + 
+    geom_bar(stat = "identity") + 
     geom_text(aes(label = ABBR, y = POS), size = 2.5) + 
-    scale_y_discrete("POINTS", limit = c(1:38)) + 
+    scale_y_discrete("POINTS", limit = c(1:42)) + 
     coord_flip()
   
   ggsave("standings.png", 
-         width = 11.5, 
+         width = 13, 
          height = 7, 
          dpi = 105)
   

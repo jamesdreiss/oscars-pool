@@ -1,0 +1,221 @@
+~
+
+name:
+
+~
+
+best picture:
+arrival
+fences
+hacksaw ridge
+hell or high water
+hidden figures
+la la land
+lion
+manchester by the sea
+moonlight
+
+~
+
+actor:
+casey affleck
+andrew garfield
+ryan gosling
+viggo mortensen
+denzel washington
+
+~
+
+actress:
+isabelle huppert
+ruth negga
+natalie portman
+emma stone
+meryl streep
+
+~
+
+supporting actor:
+mahershala ali
+jeff bridges
+lucas hedges
+dev patel
+michael shannon
+
+~
+
+supporting actress:
+viola davis
+naomie harris
+nicole kidman
+octavia spencer
+michelle williams
+
+~
+
+director:
+denis villeneuve
+mel gibson
+damien chazelle
+kenneth lonergan
+barry jenkins
+
+~
+
+original screenplay:
+hell or high water
+la la land
+the lobster
+manchester by the sea
+20th century women
+
+~
+
+adapted screenplay:
+arrival
+fences
+hidden figures
+lion
+moonlight
+
+~
+
+foreign language film:
+land of mine
+a man called ove
+the salesman
+tanna
+toni erdmann
+
+~
+
+documentary feature:
+fire at sea
+i am not your negro
+life animated
+oj made in america
+13th
+
+~
+
+animated feature:
+kubo and the two strings
+moana
+my life as a zucchini
+the red turtle
+zootopia
+
+~
+
+cinematography:
+arrival
+la la land
+lion
+moonlight
+silence
+
+~
+
+film editing:
+arrival
+hacksaw ridge
+hell or high water
+la la land
+moonlight
+
+~
+
+production design:
+arrival
+fantastic beasts and where to find them
+hail caesar
+la la land
+passengers
+
+~
+
+costume design:
+allied
+fantastic beasts and where to find them
+florence foster jenkins
+jackie
+la la land
+
+~
+
+makeup and hairstyling:
+a man called ove
+star trek beyond
+suicide squad
+
+~
+
+visual effects:
+deepwater horizon
+doctor strange
+the jungle book
+kubo and the two strings
+rogue one
+
+~
+
+original song:
+audition
+cant stop the feeling
+city of stars
+the empty chair
+how far ill go
+
+~
+
+original score:
+jackie
+la la land
+lion
+moonlight
+passengers
+
+~
+
+sound editing:
+arrival
+deepwater horizon
+hacksaw ridge
+la la land
+sully
+
+~
+
+sound mixing:
+arrival
+hacksaw ridge
+la la land
+rogue one
+13 hours
+
+~
+
+live action short film:
+ennemis interieurs
+la femme et le tgv
+silent nights
+sing
+timecode
+
+~
+
+documentary short subject:
+extremis
+4.1 miles
+joes violin
+watani
+the white helmets
+
+~
+
+animated short film:
+blind vaysha
+borrowed time
+pear cider and cigarettes
+pearl
+piper

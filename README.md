@@ -11,7 +11,7 @@ Key features (and the reasons for the program's existence, since I wasn't able t
 
 [Here are the full results and picks](http://www.jamesdreiss.com/oscars_2016.html) from my pool for the 2016 awards, with just the standings plot below.
 
-![Alt text](data/samples/standings_2016.png?raw=true)
+![Alt text](data/samples/prev_years/standings_2016.png?raw=true)
 
 How does it work?
 

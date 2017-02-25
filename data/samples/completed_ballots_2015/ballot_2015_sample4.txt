@@ -1,0 +1,124 @@
+~
+
+name:
+ray
+
+~
+
+best picture:
+american sniper
+
+~
+
+actor:
+bradley cooper
+
+~
+
+actress:
+reese witherspoon
+
+~
+
+supporting actor:
+jk simmons
+
+~
+
+supporting actress:
+meryl streep
+
+~
+
+director:
+bennett miller
+
+~
+
+original screenplay:
+boyhood
+
+~
+
+adapted screenplay:
+whiplash
+
+~
+
+foreign language film:
+ida
+
+~
+
+documentary feature:
+virunga
+
+~
+
+animated feature:
+the boxtrolls
+
+~
+
+cinematography:
+ida
+
+~
+
+film editing:
+boyhood
+
+~
+
+production design:
+the grand budapest hotel
+
+~
+
+costume design:
+mr turner
+
+~
+
+makeup and hairstyling:
+foxcatcher
+
+~
+
+visual effects:
+xmen
+
+~
+
+original song:
+everything is awesome
+
+~
+
+original score:
+the grand budapest hotel
+
+~
+
+sound editing:
+american sniper
+
+~
+
+sound mixing:
+american sniper
+
+~
+
+live action short film:
+aya
+
+~
+
+documentary short subject:
+crisis hotline
+
+~
+
+animated short film:
+the bigger picture

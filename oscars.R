@@ -32,11 +32,11 @@ Plot <- function(df) {
   plot <- ggplot(df, aes(x = NAME, y = POINTS, fill = CATEGORY)) +
     geom_bar(stat = "identity") + 
     geom_text(aes(label = ABBR, y = POS), size = 2.5) + 
-    scale_y_discrete("POINTS", limit = c(1:42)) + 
+    scale_y_discrete("POINTS", limit = c(1:42), breaks = seq(0,42,2)) + 
     coord_flip()
   
   ggsave("standings.png", 
-         width = 13, 
+         width = 11.5, 
          height = 7, 
          dpi = 105)
   

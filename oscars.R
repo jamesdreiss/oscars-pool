@@ -21,18 +21,19 @@ Plot <- function(df) {
   df$NAME <- reorder(x = df$NAME, X = df$POINTS, FUN = sum) # reorders name factor level based on points leader
   
   cat.order <- as.character(unique(df$CATEGORY[order(df$ORDER)])) # reorders plot categories based on announced winner
-  cat.reorder <- factor(df$CATEGORY, labels = cat.order)
+  cat.reorder <- factor(df$CATEGORY, labels = rev(cat.order)) # reverse for correct category ordering on plot
   df$CATEGEORY_REORDER <- cat.reorder[match(df$CATEGORY, cat.reorder)]
   df$CATEGORY <- NULL
   names(df)[names(df) == "CATEGEORY_REORDER"]  <- "CATEGORY"
-  df <- df[order(df$NAME, df$CATEGORY, df$ORDER),]
+  df <- df[order(df$NAME, df$ORDER),]
   
   df$POS <- ave(df$POINTS, df$NAME, FUN = function(x) cumsum(x) - .5 * x)  # label position on plot
   
   plot <- ggplot(df, aes(x = NAME, y = POINTS, fill = CATEGORY)) +
     geom_bar(stat = "identity") + 
     geom_text(aes(label = ABBR, y = POS), size = 2.5) + 
-    scale_y_discrete("POINTS", limit = c(1:42), breaks = seq(0,42,2)) + 
+    scale_y_continuous("POINTS", limits = c(0,42), breaks = seq(0,42,2), expand = c(0, 0.5)) + 
+    guides(fill = guide_legend(reverse = TRUE)) +
     coord_flip()
   
   ggsave("standings.png", 

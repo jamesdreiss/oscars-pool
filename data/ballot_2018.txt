@@ -1,0 +1,221 @@
+~
+
+name:
+
+~
+
+best picture:
+call me by your name
+darkest hour
+dunkirk
+get out
+lady bird
+phantom thread
+the post
+the shape of water
+three billboards
+
+~
+
+actor:
+timothee chalamet
+daniel day-lewis
+daniel kaluuya
+gary oldman
+denzel washington
+
+~
+
+actress:
+sally hawkins
+frances mcdormand
+margot robbie
+saoirse ronan
+meryl streep
+
+~
+
+supporting actor:
+willem dafoe
+woody harrelson
+richard jenkins
+christopher plummer
+sam rockwell
+
+~
+
+supporting actress:
+mary j blige
+allison janney
+lesley manville
+laurie metcalf
+octavia spencer
+
+~
+
+director:
+christopher nolan
+jordan peele
+greta gerwig
+paul thomas anderson
+guillermo del toro
+
+~
+
+original screenplay:
+the big sick
+get out
+lady bird
+the shape of water
+three billboards
+
+~
+
+adapted screenplay:
+call me by your name
+the disaster artist
+logan
+mollys game
+mudbound
+
+~
+
+foreign language film:
+a fantastic woman
+the insult
+loveless
+on body and soul
+the square
+
+~
+
+documentary feature:
+abacus
+faces places
+icarus
+last men in aleppo
+strong island
+
+~
+
+animated feature:
+the boss baby
+the breadwinner
+coco
+ferdinand
+loving vincent
+
+~
+
+cinematography:
+blade runner 2049
+darkest hour
+dunkirk
+mudbound
+the shape of water
+
+~
+
+film editing:
+baby driver
+dunkirk
+i tonya
+the shape of water
+three billboards
+
+~
+
+production design:
+beauty and the beast
+blade runner 2049
+darkest hour
+dunkirk
+the shape of water
+
+~
+
+costume design:
+beauty and the beast
+darkest hour
+phantom thread
+the shape of water
+victoria and abdul
+
+~
+
+makeup and hairstyling:
+darkest hour
+victoria and abdul
+wonder
+
+~
+
+visual effects:
+blade runner 2049
+guardians of the galaxy vol 2
+kong skull island
+star wars the last jedi
+war for the planet of the apes
+
+~
+
+original song:
+mighty river
+mystery of love
+remember me
+stand up for something
+this is me
+
+~
+
+original score:
+dunkirk
+phantom thread
+the shape of water
+star wars the last jedi
+three billboards
+
+~
+
+sound editing:
+baby driver
+blade runner 2049
+dunkirk
+the shape of water
+star wars the last jedi
+
+~
+
+sound mixing:
+baby driver
+blade runner 2049
+dunkirk
+the shape of water
+star wars the last jedi
+
+~
+
+live action short film:
+dekalb elementary
+the eleven oclock
+my nephew emmett
+the silent child
+watu wote all of us
+
+~
+
+documentary short subject:
+edith+eddie
+heaven is a traffic jam
+heroin(e)
+knife skills
+traffic stop
+
+~
+
+animated short film:
+dear basketball
+garden party
+lou
+negative space
+revolting rhymes

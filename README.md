@@ -9,17 +9,19 @@ Key features (and the reasons for the program's existence, since I wasn't able t
 * Blind ballots- it's no fun when the picks in your pool are totally homogeneous; blind ballots encourage everyone to do a bit of research rather than follow the pack, and this gives you that option
 * Create HTML tables of everyone's picks
 
-[Here are the full results and picks](http://www.jamesdreiss.com/oscars_2017.html) from my pool for the 2017 awards, with just the standings plot below.
+[Here are the full results and picks](http://www.jamesdreiss.com/oscars_2018.html) from my pool for the 2018 awards, with just the standings plot below.
 
-![Alt text](data/samples/prev_years/standings_2017.png?raw=true)
+![Alt text](data/samples/prev_years/standings_2018.png?raw=true)
 
 How does it work?
 
-1. Send `ballot_2018.txt` to your friends
+1. Send `ballot_%Y.txt` to your friends
 2. Have them write their name under "name:" duh
 3. Have them make their picks by deleting the nominees who they think will lose
 4. That's it (i.e. instruct your pool to not otherwise alter the ballot; the `~` and `:` characters, for instance, are needed for parsing)
 
-Once you've received everyone's ballots, place them in `data/completed_ballots` and source `oscars.R`. If desired, alter the number of points per category in `winners.csv`. During the ceremony, update `winners.csv` with the winners in each category (exactly as they're named on the ballot) and the order that they're announced, and then call `Plot(df)` to create the standings plot.
+A NOTE FROM 2019: I'm now using an HTML form and a backend service to receive picks and export a csv that's read by calling `PicksDF`. So, another option!
+
+The completed ballots (or csv of picks) should be placed in `data/completed_ballots`. If desired, alter the number of points per category in `winners.csv`. During the ceremony, update `winners.csv` with the winners in each category (exactly as they're named on the ballot) and the order that they're announced, then source `oscars.R` and call `Plot(df)` to create the standings plot.
 
 Enjoy!

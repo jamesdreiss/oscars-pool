@@ -7,6 +7,7 @@ library(ggplot2)
 library(xtable)
 
 Plot <- function(df) {
+  # Create, save, and return an oscars pool standings plot
   winners <- read.csv("data/winners.csv", 
                       na.string = "")
   winners$CATEGORY_WINNER <- ifelse(!is.na(winners$WINNER), # winners are matched on category + pick combinations
@@ -32,7 +33,7 @@ Plot <- function(df) {
   plot <- ggplot(df, aes(x = NAME, y = POINTS, fill = CATEGORY)) +
     geom_bar(stat = "identity") + 
     geom_text(aes(label = ABBR, y = POS), size = 2.5) + 
-    scale_y_continuous("POINTS", limits = c(0,42), breaks = seq(0,42,2), expand = c(0, 0.5)) + 
+    scale_y_continuous("POINTS", limits = c(0,40), breaks = seq(0,40,2), expand = c(0, 0.5)) + 
     guides(fill = guide_legend(reverse = TRUE)) +
     coord_flip()
   
@@ -41,10 +42,11 @@ Plot <- function(df) {
          height = 7, 
          dpi = 105)
   
-  plot
+  return(plot)
 }
 
 HTMLTables <- function(picks) {
+  # Create HTML tables of picks from the data frame returned by PicksDF
   picks <- arrange(picks, NAME)
   names(picks) <- gsub("[A-z]+ - ", "", names(picks))
   names.col <- picks[1]
@@ -63,7 +65,7 @@ HTMLTables <- function(picks) {
 source("process_ballots.R")
 
 ballots <- dir("data/completed_ballots", 
-               pattern = "txt", 
+               pattern = "txt|csv",
                full.names = TRUE)
 
 picks <- PicksDF(ballots) # pass "picks" into HTMLTables() for table creation

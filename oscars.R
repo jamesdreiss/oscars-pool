@@ -49,8 +49,8 @@ HTMLTables <- function(picks) {
   # Create HTML tables of picks from the data frame returned by PicksDF
   picks <- arrange(picks, NAME)
   names(picks) <- gsub("[A-z]+ - ", "", names(picks))
-  names.col <- picks[1]
-  categories <- picks[2:ncol(picks)]
+  names.col <- picks[2]
+  categories <- picks[3:ncol(picks)]
   picks.list <- list()
   for(i in 1:ncol(categories)) {
     picks.list[[i]] <- cbind(names.col, categories[i])
